@@ -1,5 +1,5 @@
 {
-  "name": "Task-api",
+  "name": "task-api",
   "version": "1.0.0",
   "description": "task tracker",
   "main": "server.js",
@@ -7,7 +7,6 @@
   "scripts":{
     "start": "node server.js"
   },
-  "author": "sait ibrahim",
   "dependencies": {
     "json-server": "^0.17.0"
   }
