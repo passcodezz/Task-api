@@ -6,7 +6,7 @@
     "next": "https://rickandmortyapi.com/api/character/?page=2",
     "prev": null
   },
-  "character": [
+  "character": 
     { "results":{
       "id": 20,
       "name": "Ants in my Eyes Johnson",
@@ -29,5 +29,5 @@
       "url": "https://rickandmortyapi.com/api/character/20",
       "created": "2017-11-04T22:34:53.659Z"
     }}
-  ]
+  
 }
