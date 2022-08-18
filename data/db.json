@@ -5,12 +5,6 @@
     "next": "https://rickandmortyapi.com/api/character/?page=2",
     "prev": null
   },
-    "20": {
-      "count": 826,
-      "pages": 42,
-      "next": "https://rickandmortyapi.com/api/character/?page=2",
-      "prev": null
-    },
   
   "character": {
     "results": [
@@ -29,6 +23,28 @@
           "name": "Interdimensional Cable",
           "url": "https://rickandmortyapi.com/api/location/6"
         },
+        "20": {
+          "id": 20,
+          "name": "Ants in my Eyes Johnson",
+          "status": "unknown",
+          "species": "Human",
+          "type": "Human with ants in his eyes",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown",
+            "url": ""
+          },
+          "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg",
+          "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+          ],
+          "url": "https://rickandmortyapi.com/api/character/20",
+          "created": "2017-11-04T22:34:53.659Z"
+        },  
         "image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg",
         "episode": ["https://rickandmortyapi.com/api/episode/8"],
         "url": "https://rickandmortyapi.com/api/character/20",
@@ -55,7 +71,7 @@
         ],
         "url": "https://rickandmortyapi.com/api/character/2",
         "created": "2017-11-04T18:50:21.651Z"
-      }
-    ]
-  }
+    }
+  ]
+ }
 }
