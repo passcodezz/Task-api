@@ -1,0 +1,32 @@
+{
+  "character": [
+    { 
+      "id": 2,
+      "name": "Morty",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+      "gender": "Male"
+    },
+    {
+      "name": "rick",
+      "status": "unknown",
+      "species": "Human",
+      "type": "Human with ants in his eyes",
+      "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+      "gender": "Male",
+      "id": 20
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
