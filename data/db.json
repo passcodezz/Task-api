@@ -1,7 +1,7 @@
 {
   "frontend": [
     {
-      "userId": 1,
+      "affiliation": "water",
       "id": 1,
       "title": "gift",
       "description": "Ut aut doloribus qui amet modi. Eveniet perferendis eaque velit et sed omnis hic quo. Adipisci sequi veniam voluptatem aliquid ut inventore numquam. Iure eveniet dolores nobis quae.",
@@ -11,7 +11,7 @@
       "updated_at": "2022-08-18T14:28:53.000000Z"
     },
     {
-      "userId": 1,
+      "affiliation": "water",
       "id": 2,
       "title": "water",
       "description": "Voluptate earum qui et consectetur quo velit cumque. Ut nulla enim est sunt quo. Quas voluptatibus eum veritatis molestiae aperiam dolor. Et soluta dolor est amet nam.",
@@ -30,6 +30,7 @@
       "updated_at": "2022-08-18T14:28:53.000000Z"
     },
     {
+      "affiliation": "water",
       "id": 4,
       "title": "Consequunturwater eius et ut.",
       "description": "Ut provident enim quae tenetur voluptatem. Aperiam itaque sed fugit et aliquid magnam dolorem. Est inventore unde nihil laboriosam voluptatibus sed.",
