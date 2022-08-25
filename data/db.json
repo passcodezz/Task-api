@@ -100,6 +100,11 @@
       "id": 20,
       "title": "Bearing Accessories",
       "image": "https://th.misumi-ec.com/en/linked/material/mech/category/M0810000000.jpg?$category_first$"
+    },
+    {
+      "id": 21,
+      "title": "Bearings",
+      "image": "https://th.misumi-ec.com/en/linked/material/mech/category/M0802000000.jpg?$category_first$"
     }
   ],
 
@@ -2342,6 +2347,54 @@
       "image": "https://th.misumi-ec.com/en/linked/material/fs/MCX1/PHOTO/t010003804618.jpg?$product_view_b$"
     },
     {
+      "id": 201,
+      "brand": "SMC",
+      "title": "Support Units",
+      "name": "Vacuum Unit, Ejector System ZK2 Series",
+      "image": "https://content.misumi-ec.com/image/upload/t_product_view_b/v1/p/jp/product/series/221300059765/221300059765_002.jpg?$product_view_b$",
+      "test": "test"
+      },
+      {
+      "id": 202,
+      "brand": "SMC",
+      "title": "Support Units",
+      "name": "Vacuum Unit ZK2 Series, Manifold / Optional Parts",
+      "image": "https://th.misumi-ec.com/en/linked/material/mech/SMC1/PHOTO/221302396828_001.JPG?$product_view_b$",
+      "test": "test"
+      },
+      {
+      "id": 203,
+      "brand": "THK",
+      "title": "Linear Bushings",
+      "name": "Linear Bushing LM Type",
+      "image": "https://content.misumi-ec.com/image/upload/t_product_view_b/v1/p/cn/product/series/221000091803/221000091803_20201112121104.jpg?$product_view_b$",
+      "test": "test"
+      },
+      {
+      "id": 204,
+      "brand": "THK",
+      "title": "Linear Bushings",
+      "name": "Linear Bushing LMF Type (Flanged Type / Round Type)",
+      "image": "https://content.misumi-ec.com/image/upload/t_product_view_b/v1/p/cn/product/series/221000091735/221000091735_20201112121104.jpg?$product_view_b$",
+      "test": "test"
+      },
+      {
+      "id": 205,
+      "brand": "MITUTOYO",
+      "title": "Tooling",
+      "name": "500 Series, ABS Digimatic Caliper CD-AX",
+      "image": "https://th.misumi-ec.com/en/linked/material/fs/MTY1/PHOTO/223005004905.jpg?$product_view_b$",
+      "test": "test"
+      },
+      {
+      "id": 206,
+      "brand": "MITUTOYO",
+      "title": "Tooling",
+      "name": "ABSOLUTE Digimatic Caliper 500 Series",
+      "image": "https://th.misumi-ec.com/en/linked/material/fs/MTY1/PHOTO/223300521930_001.JPG?$product_view_b$",
+      "test": "test"
+      },
+    {
       "id": 281,
       "brand": "SEKISUI CHEMICAL",
       "title": "Cloth Tapes",
@@ -3435,45 +3488,48 @@
     },
     {
       "id": 436,
-      "brand": "",
-      "title": "",
-      "name": "",
-      "image": ""
+      "brand": "NTN",
+      "title": "Bearings",
+      "test": "test",
+      "name": "Deep Groove Ball Bearing",
+      "image": "https://th.misumi-ec.com/en/linked/material/mech/NTN1/PHOTO/221000058413_001.jpg?$search_view_b$"
     },
     {
       "id": 437,
-      "brand": "",
-      "title": "",
-      "name": "",
-      "image": ""
+      "brand": "NTN",
+      "title": "Bearings",
+      "test": "test",
+      "name": "Miniature Ball Bearings and Small Diameter Ball Bearings",
+      "image": "https://th.misumi-ec.com/en/linked/material/mech/NTN1/PHOTO/NTN1_221000058378.jpg?$search_view_b$"
     },
     {
       "id": 438,
-      "brand": "",
-      "title": "",
-      "name": "",
-      "image": ""
+      "brand": "TAKIGEN",
+      "title": "Bearings",
+      "test": "test",
+      "name": "Flush Handle A-240-A",
+      "image": "https://th.misumi-ec.com/en/linked/material/mech/TAK1/PHOTO/TAK1_221004912517.jpg?$search_view_b$"
     },
     {
       "id": 439,
-      "brand": "",
-      "title": "",
-      "name": "",
-      "image": ""
+      "brand": "TAKIGEN",
+      "title": "Bearings",
+      "name": "Super Magnetic Catch (Horizontal Type) C-100-B",
+      "image": "https://content.misumi-ec.com/image/upload/t_search_view_b/v1/p/cn/product/series/221004904743/221004904743_20201112121138.jpg?$search_view_b$"
     },
     {
       "id": 440,
-      "brand": "",
-      "title": "",
-      "name": "",
-      "image": ""
+      "brand": "TONE",
+      "title": "Tooling",
+      "name": "Combination Wrench MS",
+      "image": "https://content.misumi-ec.com/image/upload/t_product_view_b/v1/p/cn/product/series/223000305869/223000305869_20201112121605.jpg?$product_view_b$"
     },
     {
       "id": 441,
-      "brand": "",
-      "title": "",
-      "name": "",
-      "image": ""
+      "brand": "TONE",
+      "title": "Tooling",
+      "name": "Sockets (6-point) 3S",
+      "image": "https://content.misumi-ec.com/image/upload/t_product_view_b/v1/p/cn/product/series/223000327504/223000327504_20201112121618.jpg?$product_view_b$"
     },
     {
       "id": 442,
