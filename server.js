@@ -10,7 +10,8 @@ server.use(jsonServer.bodyParser);
 
 server.use((req, res, next) => {
   if (
-    req.path.startsWith("/automation") &&
+    req.path.startsWith("/test") &&
+    // req.path.startsWith("/automation") &&
     req.headers["authorization"] !== "Bearer abcd"
   ) {
     return res.status(401).json({ error: "Must pass token" });
