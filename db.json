@@ -2347,6 +2347,7 @@
       "image": "https://th.misumi-ec.com/en/linked/material/fs/MCX1/PHOTO/t010003804618.jpg?$product_view_b$"
     },
     {
+<<<<<<< HEAD
       "id": 201,
       "brand": "SMC",
       "title": "Support Units",
@@ -2358,6 +2359,11 @@
       "id": 202,
       "brand": "SMC",
       "title": "Support Units",
+=======
+      "id": 202,
+      "brand": "SMC",
+      "title": "Vacuum Generators, Vacuum Ejectors",
+>>>>>>> 6921b25ddf4c56daf031ed49ed87189e6bbc0a37
       "name": "Vacuum Unit ZK2 Series, Manifold / Optional Parts",
       "image": "https://th.misumi-ec.com/en/linked/material/mech/SMC1/PHOTO/221302396828_001.JPG?$product_view_b$",
       "test": "test"
@@ -2381,7 +2387,11 @@
     {
       "id": 205,
       "brand": "MITUTOYO",
+<<<<<<< HEAD
       "title": "Tooling",
+=======
+      "title": "Measurement Tools Measuring Equipment",
+>>>>>>> 6921b25ddf4c56daf031ed49ed87189e6bbc0a37
       "name": "500 Series, ABS Digimatic Caliper CD-AX",
       "image": "https://th.misumi-ec.com/en/linked/material/fs/MTY1/PHOTO/223005004905.jpg?$product_view_b$",
       "test": "test"
@@ -2389,12 +2399,19 @@
     {
       "id": 206,
       "brand": "MITUTOYO",
+<<<<<<< HEAD
       "title": "Tooling",
+=======
+      "title": "Measurement Tools Measuring Equipment",
+>>>>>>> 6921b25ddf4c56daf031ed49ed87189e6bbc0a37
       "name": "ABSOLUTE Digimatic Caliper 500 Series",
       "image": "https://th.misumi-ec.com/en/linked/material/fs/MTY1/PHOTO/223300521930_001.JPG?$product_view_b$",
       "test": "test"
     },
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6921b25ddf4c56daf031ed49ed87189e6bbc0a37
     {
       "id": 207,
       "brand": "MISUMI",
@@ -2602,8 +2619,13 @@
       "id": 236,
       "brand": "MISUMI",
       "title": "Linear Shafts",
+<<<<<<< HEAD
       "name": "High Precision Linear Shafts - Both Ends Threaded with Undercuts / Both Ends Threaded with Undercuts and Wrench Flats",
       "image": "https://content.misumi-ec.com/image/upload/t_product_view_b/v1/p/jp/product/series/110302577610/110302577610_001.jpg?$product_view_b$"
+=======
+      "name": "",
+      "image": ""
+>>>>>>> 6921b25ddf4c56daf031ed49ed87189e6bbc0a37
     },
     {
       "id": 237,
@@ -2633,7 +2655,10 @@
       "name": "Linear Shafts-One End Threaded with Undercut and Wrench Flats / Cross-Drilled Hole",
       "image": "https://th.misumi-ec.com/en/linked/material/mech/MSM1/PHOTO/10302635530.jpg?$product_view_b$"
     },
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6921b25ddf4c56daf031ed49ed87189e6bbc0a37
     {
       "id": 241,
       "brand": "MISUMI",
@@ -2914,6 +2939,10 @@
       "name": "Shaft Support Base (SA Type)",
       "image": "https://th.misumi-ec.com/en/linked/material/mech/NBE1/PHOTO/221005392341.jpg?$product_view_b$"
     },
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6921b25ddf4c56daf031ed49ed87189e6bbc0a37
     {
       "id": 281,
       "brand": "SEKISUI CHEMICAL",
